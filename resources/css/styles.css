@@ -1,0 +1,22 @@
+.thinker {
+    position: relative;
+    padding-top: 55px;
+}
+
+.img-thinker {
+    opacity: 0.8;
+}
+
+.img-text {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    background: rgba(32, 32, 32, 0.3);
+    padding: 10px;
+    position: absolute;
+    font-size: 3vw;
+    text-align: center;
+    bottom: 0;
+    right: 4vw;
+    left: 4vw;
+    color: white;
+}
