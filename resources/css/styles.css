@@ -1,3 +1,11 @@
+.nav_item > a:hover {
+    background-color: #b6ccf3;
+}
+
+.active {
+    background-color: #6786ac;
+}
+
 .thinker {
     position: relative;
     padding-top: 55px;
